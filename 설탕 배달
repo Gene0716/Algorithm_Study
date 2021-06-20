@@ -17,7 +17,7 @@ int main(void)
 		if (N == 8)
 		{
 			a = 1; b = 1;
-			cout << 2;
+			cout << a+b;
 		}
 		else if (N % 3 == 0)
 		{
